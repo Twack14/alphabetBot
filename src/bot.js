@@ -24,7 +24,8 @@ function onAuthenticated(err, res) {
         follow: userId,
       });
 
-      //stream for extended tweets
+      //stream for tweets, and handle both 
+      //classic and extended tweets
       stream.on('tweet', tweet => {
 
           if(tweet.retweeted || tweet.retweeted_status || tweet.in_reply_to_status_id || tweet.in_reply_to_user_id || tweet.delete) {
