@@ -1,0 +1,23 @@
+{
+  "name": "jsproject",
+  "version": "1.0.0",
+  "description": "This is a JavaScript project for fun",
+  "main": "index.js",
+  "repository": "https://github.com/Twack14/alphabetBot.git",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "twitter",
+    "bot",
+    "javascript",
+    "js"
+  ],
+  "author": "Taylor Womack",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "twit": "^2.2.11"
+  }
+}
