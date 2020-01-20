@@ -1,7 +1,7 @@
 {
   "name": "jsproject",
   "version": "1.0.0",
-  "description": "This is a JavaScript project for fun",
+  "description": "This is a Twitter bot that rearranges tweet text of a specified user into alphabetical order",
   "main": "index.js",
   "repository": "https://github.com/Twack14/alphabetBot.git",
   "scripts": {
