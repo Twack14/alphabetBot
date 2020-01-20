@@ -15,7 +15,7 @@ This bot listens to a specified account takes the tweet of a user as they tweet 
     - Consumer Secret
     - Access Token
     - Access Token Secret
-    ###### NOTE: KEEP THESE KEYS PRIVATE! EXPOSING YOUR TOKENS AND SECRETS CAN ALLOW ACCESS TO YOUR TWITTER ACCOUNT.
+    ### NOTE: KEEP THESE KEYS PRIVATE! EXPOSING YOUR TOKENS AND SECRETS CAN ALLOW ACCESS TO YOUR TWITTER ACCOUNT.
     For more information about security, read up on [Twitter's Developer Documentation on security best practices](https://developer.twitter.com/en/docs/basics/security-best-practices)
 
 # Installation
