@@ -84,6 +84,9 @@ function onAuthenticated(err, res) {
         }
 
         else {
+            //This is where we listen for tweets that are not extended:
+            //=========================================================
+            
             //Show what the user posted originally to the console
           console.log(`\n${tweet.user.name} posted: ${tweet.text}`);
           
