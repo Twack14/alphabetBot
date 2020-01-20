@@ -33,7 +33,8 @@ cd alphabetBot
 npm install
 ```
 
-**Step 4:** Inside of the alphabetBot folder, create a file called ".env" (without the quotes), and inside of that file you should have the following structure:
+**Step 4:** Inside of the alphabetBot folder, create a file called ".env" (without the quotes), and inside of that file you should have the following structure.
+- Note: It's easiest to do this with a text editor program of some sort, I recommend [VS Code](https://code.visualstudio.com/download). Once downloaded, open the alphabetBot folder and add the .env file, and including the following:
 ```
 TWITTER_CONSUMER_KEY=your_consumer_key
 TWITTER_CONSUMER_SECRET=your_consumer_secret
