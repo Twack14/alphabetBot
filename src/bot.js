@@ -1,6 +1,10 @@
-// The use of Node.js is allowed through the MIT license:
+// The use of Node.js, as well as the twit module is allowed through the MIT license,
+//copyrights notices are respective to the aformentioned software:
 //========================================================================
+//(The MIT License)
+//
 // Copyright Node.js contributors. All rights reserved
+// Copyright (c) by Tolga Tezel tolgatezel11@gmail.com
 
 // Permission is hereby granted, free of charge, to any person obtaining
 // a copy of this software and associated documentation files (the
