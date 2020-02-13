@@ -59,7 +59,7 @@ Before making use of any twitter bot, please read [Twitter's Rules and Policies]
 
 # License Notices
 **BSD-2 Clause license**
-- The use of the dotenv module is allowed through the use of the, and copyright attribution can be found in the ```src/config.js``` file in the project
+- The use of the dotenv module is allowed through the use of the BSD-2 Clause license, and copyright notices can be found in the ```src/config.js``` file in the project
 
 **MIT license**
 - The use of Node.js and twit modules are allowed through the use of the MIT license, and those copyright notices can be found in the ```src/bot.js``` file.
