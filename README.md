@@ -57,6 +57,13 @@ That means alphabetBot is running! Then you just wait for the user to tweet. As 
 ### Note about Twitter General Guidelines and Rules
 Before making use of any twitter bot, please read [Twitter's Rules and Policies](https://help.twitter.com/en/rules-and-policies#general-policies) about general guidelines concerning ethical Twitter use.
 
+# License Notices
+**BSD-2 Clause license**
+- The use of the dotenv module is allowed through the use of the, and copyright attribution can be found in the ```src/config.js``` file in the project
+
+**MIT license**
+- The use of Node.js and twit modules are allowed through the use of the MIT license, and those copyright notices can be found in the ```src/bot.js``` file.
+
 ## Other Notes
 Feel free to collaborate with me on this repository to improve this Twitter bot. Make use of GitHub's issues and pull request features if you seen anything you want to improve! 
 
